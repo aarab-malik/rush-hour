@@ -112,7 +112,3 @@ g++ -g3 -fmessage-length=0 -o game util.cpp RushHour.cpp \
 ---
 
 > For issues or suggestions, open an issue or pull request on [this repo](https://github.com/aarab-malik/rush-hour).
-
----
-
-Let me know if you want to add screenshots, a sample GIF, or make it even more concise for your submission!
